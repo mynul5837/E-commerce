@@ -1,9 +1,9 @@
-import 'package:e_commerce_flutter/screens/home/page/home_screen.dart';
+import 'package:e_commerce_flutter/screen/home/page/home_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:icons_plus/icons_plus.dart';
 
-import '../../../common/widgets/app_bar.dart';
-import '../widgets/bottom_nav_bar.dart';
+import '../../../common/widget/app_bar.dart';
+import '../widget/bottomnavbar.dart';
 
 class Home extends StatefulWidget {
   const Home({super.key});

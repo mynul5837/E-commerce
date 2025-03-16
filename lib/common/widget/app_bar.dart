@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:icons_plus/icons_plus.dart';
 
-import '../../utils/constants/colors.dart';
+import '../../utlis/constants/colors.dart';
 
 class FAppBar extends StatelessWidget implements PreferredSizeWidget {
   const FAppBar({
